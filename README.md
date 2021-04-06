@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-😁 My name is Lucas Valerio, I am an environmental engineer 🌳;
-🌱 I'm currently learning data science and data analysis;
-⚡ I'm interested in programming projects in C/C ++ languages and Python;
+😁 My name is Lucas Valerio, I am an environmental engineer 🌳.
+🌱 I'm currently learning data science and data analysis.
+⚡ I'm interested in programming projects in C/C ++ languages and Python.
 🍁 I’m looking for help with programming pattern skills.
 <!--
 **Lucasvdo/lucasvdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
